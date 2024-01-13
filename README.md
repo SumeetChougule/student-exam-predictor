@@ -24,7 +24,7 @@ This project aims to predict the math exam performance of students based on vari
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/student-exam-predictor.git
+   git clone [https://github.com/yourusername/student-exam-predictor.git](https://github.com/SumeetChougule/student-exam-predictor.git)
 
 2. Navigate to the project directory:
 
