@@ -16,7 +16,7 @@ This project aims to predict the math exam performance of students based on vari
 
 ### Prerequisites
 
-- Python 3.x
+- Python 3.11.x
 - Dependencies listed in `requirements.txt`
 
 ### Installation
